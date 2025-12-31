@@ -1,4 +1,4 @@
 partner list
-bootdotdev
+SalesInc
 squarespcae
 theprimeagen
